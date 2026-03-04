@@ -2,10 +2,10 @@
   "name": "lotr-quotes-api",
   "version": "1.0.0",
   "description": "LotR quotes API",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "node --watch src/index.js",
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
     "test": "jest"
   },
   "dependencies": {
