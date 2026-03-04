@@ -8,7 +8,7 @@ A lightweight, containerized REST API built with **Node.js** and **Express** tha
 ---
 
 ## 🚀 Live Demo
-> **Base URL:** `https://your-app-name.onrender.com`
+> **Base URL:** `https://lotr-quotes.onrender.com`
 
 ---
 
