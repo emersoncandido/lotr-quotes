@@ -16,9 +16,9 @@ const quotesData = {
     gandalf: [
         "Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.",
         "It’s the small things, everyday deeds of ordinary folk that keeps the darkness at bay.",
-        "I am Gandalf….and Gandalf means…ME!",
+        "I am Gandalf, and Gandalf means ME!",
         "A wizard is never late, nor is he early, he arrives precisely when he means to.",
-        "The world is not in your books and maps. It's out there"
+        "The world is not in your books and maps. It's out there!"
     ],
     sam: [
         "Po-ta-toes! Boil 'em, mash 'em, stick 'em in a stew.",
