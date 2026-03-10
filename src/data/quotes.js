@@ -18,7 +18,8 @@ const quotesData = {
         "It’s the small things, everyday deeds of ordinary folk that keeps the darkness at bay.",
         "I am Gandalf, and Gandalf means ME!",
         "A wizard is never late, nor is he early, he arrives precisely when he means to.",
-        "The world is not in your books and maps. It's out there!"
+        "The world is not in your books and maps. It's out there!",
+        "End? No, the journey does not end here. Death is just another path, one that we all must take. The grey rain curtain of this world rolls back, and all turns to silver glass, and then you see it. White shores, and beyond. A far green country, under a swift sunrise."
     ],
     sam: [
         "Po-ta-toes! Boil 'em, mash 'em, stick 'em in a stew.",
