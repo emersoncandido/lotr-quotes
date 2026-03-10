@@ -75,19 +75,24 @@ A lightweight, containerized REST API built with **Node.js** and **Express** tha
 git clone https://github.com/emersoncandido/lotr-quotes.git
 ```
 
-2. **Install dependencies:**
+2. **Build the Docker image:**
 ```bash
-npm install
+docker build -t lotr-quotes-api .
 ```
 
-3. **Run tests:**
+3. **Run the container:**
 ```bash
-npm test
+docker run -p 3000:3000 lotr-quotes-api
 ```
 
-4. **Start the server:**
+4. **Run tests:**
 ```bash
-npm start
+docker run lotr-quotes-api npm test
+```
+
+5. **Access in local environment:**
+```
+http://localhost:3000
 ```
 
 ---
