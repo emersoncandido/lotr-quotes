@@ -1,6 +1,6 @@
 # 🧙‍♂️ LotR Quotes API
 
-A lightweight, containerized REST API built with **Node.js** and **Express** that serves iconic wisdom from some of the the greatest characters of Middle-earth. This is not intended to be a full collection of quotes, just a fun API for testing purposes.
+A lightweight, containerized REST API built with **Node.js** and **Express** that serves iconic wisdom from some of the the greatest characters of Middle-Earth. This is not intended to be a full collection of quotes, just a fun API for testing purposes.
 
 [![Node.js CI](https://github.com/emersoncandido/lotr-quotes/actions/workflows/node-ci.yml/badge.svg)](https://github.com/emersoncandido/lotr-quotes/actions)
 ![Render](https://img.shields.io/badge/Render-Live-brightgreen)
