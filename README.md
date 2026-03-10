@@ -72,7 +72,7 @@ A lightweight, containerized REST API built with **Node.js** and **Express** tha
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/emersoncandido/lotr-quotes.git](https://github.com/emersoncandido/lotr-quotes.git)
+git clone https://github.com/emersoncandido/lotr-quotes.git
 ```
 
 2. **Install dependencies:**
